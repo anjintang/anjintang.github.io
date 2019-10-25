@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
-  <updated>2019-10-25T11:03:35.000Z</updated>
-  <id>http://yoursite.com/</id>
+  <link href="https://anjintang.github.io/"/>
+  <updated>2019-10-25T14:35:08.398Z</updated>
+  <id>https://anjintang.github.io/</id>
   
   <author>
     <name>anjin-唐</name>
@@ -17,9 +17,33 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>first_page</title>
+    <link href="https://anjintang.github.io/2019/10/25/first-page/"/>
+    <id>https://anjintang.github.io/2019/10/25/first-page/</id>
+    <published>2019-10-25T14:31:16.000Z</published>
+    <updated>2019-10-25T14:35:08.398Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;随着时光的推移，日复一日的工作，让我变得越来越平庸。每天见到的人，都是昨天、前天、去年、前年见到的人，让我有些错觉，仿佛时间并没有变，我们依然是我们，世界依然是这个世界。&lt;/p&gt;
+&lt;p&gt;如果是鱼，在鱼缸里呆久了，就不知道外面还有更大的世界、更大的鱼。如今的我，就是一条鱼缸里
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2019/10/25/hello-world/"/>
-    <id>http://yoursite.com/2019/10/25/hello-world/</id>
+    <link href="https://anjintang.github.io/2019/10/25/hello-world/"/>
+    <id>https://anjintang.github.io/2019/10/25/hello-world/</id>
     <published>2019-10-25T13:57:06.410Z</published>
     <updated>2019-10-25T11:03:35.000Z</updated>
     
